@@ -21,5 +21,5 @@ import random
 from paths import common_paths, userAgents
 ```
 
-
+Make sure to put the "paths.py" file in the same directory as the "urlfuzzer.py"
 
