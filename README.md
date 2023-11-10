@@ -57,5 +57,11 @@ http://www.xyz.store/superuser
 Warning
 --------------
 
+URL fuzzers are powerful tools used in cybersecurity for probing web applications and discovering potential vulnerabilities. However, it's crucial to exercise extreme caution and ethical responsibility when using URL fuzzers. Only deploy these tools on web servers that you own or have obtained explicit permission to test.
+
+Unauthorized or aggressive use of URL fuzzers on websites or servers without proper authorization is illegal and unethical. It can potentially disrupt services, violate laws, and cause harm to the targeted systems, leading to severe legal consequences.
+
+It is imperative to emphasize that I, as the provider of information on URL fuzzers, cannot be held responsible for any misuse or unauthorized activities conducted using these tools. The user assumes sole responsibility for their actions, and it's crucial to act in compliance with laws, regulations, and ethical guidelines when performing security assessments or penetration tests. Always obtain explicit permission before using URL fuzzers on any web application or server.
+
 
 
