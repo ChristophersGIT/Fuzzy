@@ -23,3 +23,9 @@ from paths import common_paths, userAgents
 
 Make sure to put the "paths.py" file in the same directory as the "urlfuzzer.py"
 
+Usage
+--------------
+
+The script will prompt the user to enter a url to fuzz, please note that the url must include protocol in the url ("http://" or "https://")
+
+
