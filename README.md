@@ -1,7 +1,7 @@
 Fuzzy
 ==============
 
-Fuzzy is a url fuzzer with features to help find paths without being to aggressive
+Fuzzy represents a URL fuzzing tool equipped with nuanced functionalities designed to intelligently uncover URL paths while maintaining a balanced approach without overly aggressive scanning methodologies.
 
 
 Brief description of url fuzzer
@@ -11,6 +11,15 @@ A URL fuzzer is a cybersecurity tool used in penetration testing and security as
 
 Dependencies
 -------------- 
+Fuzzy requires:
+
+```
+import requests
+import sys
+import time
+import random
+from paths import common_paths, userAgents
+```
 
 
 
