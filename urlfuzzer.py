@@ -4,11 +4,8 @@ import time
 import random
 from paths import common_paths, userAgents
 
-# prompt for normal search,
-# vpn on off,
-# add different user agents
 success_list = []
-delay = random.uniform(0.2, 0.3)
+delay = random.uniform(0.2, 0.8)
 
 
 def fuzzy():
