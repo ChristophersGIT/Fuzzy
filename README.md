@@ -28,4 +28,9 @@ Usage
 
 The script will prompt the user to enter a url to fuzz, please note that the url must include protocol in the url ("http://" or "https://")
 
+Example Usage:
+```
+Enter the URL to Fuzz: https://www.xyz.store
+```
+
 
